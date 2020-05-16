@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 
         if (i <  musicians.length ){
-          console.log(musicians + " plays "+ instruments)
+          console.log(musicians + " plays "+ instruments);
     
        } 
         else {
@@ -19,4 +19,9 @@ function theBeatlesPlay(musicians, instruments) {
    }
   
  
+}
+
+
+function johnLennonFacts(){
+  
 }
