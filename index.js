@@ -9,7 +9,7 @@ function theBeatlesPlay(musicians, instruments) {
       
     }
     else if (i === 1) {
-      Object.assign({}, "Beatles", { ["Paul McCartney "]: "Bass Guitar" });
+      Object.assign({}, "Beatles", { ["Paul McCartney plays Bass Guitar" });
 
     }
     else if (i === 2) {
