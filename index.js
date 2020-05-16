@@ -44,5 +44,5 @@ function incrementVariable() {
   do {
     console.log("I love the Beatles!")
   }
-  while (incrementVariable() < num);
+  while (incrementVariable() < 15);
 }
