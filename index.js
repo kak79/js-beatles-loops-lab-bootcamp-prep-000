@@ -5,17 +5,9 @@ function theBeatlesPlay(musicians, instruments) {
   for (let i = 0; i < musicians.length; i++) {
 
 
-
-
-        if (i <  musicians.length ){
-          console.log(musicians + " plays "+ instruments);
+        console.log(musicians + " plays "+ instruments);
     
-       } 
-        else {
-          
-          break;
-     
-        }
+   
    }
   
  
