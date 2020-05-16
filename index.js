@@ -24,6 +24,6 @@ function theBeatlesPlay(musicians, instruments) {
   }
   
   
-  Object.musicians().forEach(function ())
-  console.log(musicians + " plays " + instruments);
+ // Object.musicians().forEach(function ())
+  //console.log(musicians + " plays " + instruments);
 }
