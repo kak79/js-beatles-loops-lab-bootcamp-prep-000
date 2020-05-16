@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 
         if (i <  musicians.length ){
-          return musicians + " plays "+ instruments
+          console.log(musicians + " plays "+ instruments)
     
        } 
         else {
