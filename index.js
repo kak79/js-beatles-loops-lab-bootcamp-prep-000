@@ -2,7 +2,7 @@
 
 function theBeatlesPlay(musicians, instruments) {
 
-  for (let i = 0; i < 4; i++) {
+  for (let i = 0; i < musicians.length; i++) {
 
     if (i === 0) {
       Object.assign({}, "Beatles", { ["John Lennon plays Guitar" });
