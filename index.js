@@ -10,12 +10,10 @@ function theBeatlesPlay(musicians, instruments) {
         if (i <  musicians.length ){
           return musicians + " plays "+ instruments
     
-    
-
-
-
-      } 
+       } 
         else {
+          
+          break;
      
         }
    }
