@@ -30,7 +30,7 @@ function johnLennonFacts(array){
 
 
 
-function iLoveTheBeatles(array){
+function iLoveTheBeatles(num){
    let i = 0;
  
 function incrementVariable() {
