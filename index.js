@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 
 
-        if (i <   ){
+        if (i <  musicians.length ){
     
     
 
@@ -16,7 +16,7 @@ function theBeatlesPlay(musicians, instruments) {
       } 
         else {
      
-   
+        }
    }
   
  
