@@ -22,7 +22,7 @@ function theBeatlesPlay(musicians, instruments) {
 
     }
   }
-  for (let i = 0; i < musicians.length; i++) {
+  
   
  // Object.musicians().forEach(function ())
   //console.log(musicians + " plays " + instruments);
