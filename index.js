@@ -5,11 +5,11 @@ function theBeatlesPlay(musicians, instruments) {
   for (let i = 0; i < 4; i++) {
 
     if (i === 0) {
-      Object.assign({}, "Beatles", { ["John Lennon"]: "Guitar" });
+      Object.assign({}, "Beatles", { ["John Lennon plays Guitar" });
       
     }
     else if (i === 1) {
-      Object.assign({}, "Beatles", { ["Paul McCartney"]: "Bass Guitar" });
+      Object.assign({}, "Beatles", { ["Paul McCartney "]: "Bass Guitar" });
 
     }
     else if (i === 2) {
