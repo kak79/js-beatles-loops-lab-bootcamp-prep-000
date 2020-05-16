@@ -32,10 +32,12 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(num){
   
+  numArray = [];
  
   do {
-    console.log("I love the Beatles!")
+    numArray.push("I love the Beatles!")
     num++
   }
   while (num< 15);
+  return numArray;
 }
