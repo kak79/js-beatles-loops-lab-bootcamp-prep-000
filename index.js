@@ -18,7 +18,7 @@ function theBeatlesPlay(musicians, instruments) {
     }
     else {
       (i === 3);
-      Object.assign({}, "Beatles", { ["Ringo Starr"]: "Drums" });
+      Object.assign({}, "Beatles", { ["Ringo Starr plays Drums" });
 
     }
   }
