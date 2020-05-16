@@ -24,6 +24,8 @@ function theBeatlesPlay(musicians, instruments) {
 
 function johnLennonFacts(){
   
-  while (array >0){}
+  while (array >0){
+    
+  }
   
 }
